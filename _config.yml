@@ -24,10 +24,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  name             : "Archisman Bandyopadhyay"
+  pronouns         : "he/him/his"  
+  bio              : "Ph.D. Student in Mathematics"
+  location         : "Minneapolis, Minnesota, USA"
   employer         : "University of Minnesota Twin Cities"
   uri              : # URL
   email            : "bandy053@umn.edu" 
