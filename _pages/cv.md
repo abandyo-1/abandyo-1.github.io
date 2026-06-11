@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mathematics, University of Minnesota Twin Cities, 2030 (expected)
+* Ph.D. in Mathematics, University of Minnesota Twin Cities, 2030 (expected)
 * B.S. in Mathematics, University of Minnesota Twin Cities, 2025
 
 Work experience
