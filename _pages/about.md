@@ -1,14 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-About Me
-======
+
 * I am a first year Ph.D. student in Mathematics at the University of Minnesota Twin Cities, working with Prof. Gilad Lerman.
   
 A data-driven personal website
